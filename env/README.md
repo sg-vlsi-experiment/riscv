@@ -25,7 +25,17 @@ wget https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh
 bash Anaconda3-2023.09-0-Linux-x86_64.sh
 ```
 
+## Jupyter Notebook in VS Code
+```
+pip install jupyter
 
+```
+
+### Create or open a Jupyter Notebook
+Ctrl+Shift+P or creating a new .ipynb file in your workspace.
+
+### To run the current cell
+Use Ctrl+Enter. To run the current cell and advance to the next, use Shift+Enter
 
 ## Backup
 
